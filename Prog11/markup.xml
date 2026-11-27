@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darbinieki>
+    <darbinieks>
+        <darbiniekaID>8546957</darbiniekaID>
+        <vards>Jānis</vards>
+        <uzvards>Andersons</uzvards>
+        <departaments>Pārdošanas Departaments</departaments>
+    </darbinieks>
+    <darbinieks>
+        <darbiniekaID>98468574</darbiniekaID>
+        <vards>Anna</vards>
+        <uzvards>Bērziņa</uzvards>
+        <departaments>Marketinga departaments</departaments>
+    </darbinieks>
+</darbinieki>

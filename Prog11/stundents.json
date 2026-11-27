@@ -1,0 +1,60 @@
+{
+  "skoleni": [
+    {
+      "vards": "Anna",
+      "uzvards": "Bērziņa",
+      "klase": "11.B",
+      "prieksmeti": [
+        {
+          "nosaukums": "Matemātika",
+          "atzimes": {
+            "15/10/2026": 8,
+            "20/11/2026": 9
+          }
+        },
+        {
+          "nosaukums": "Fizika",
+          "atzimes": {
+            "15/10/2026": 7,
+            "20/11/2026": 6
+          }
+        },
+        {
+          "nosaukums": "Programmēšana",
+          "atzimes": {
+            "15/10/2026": 10,
+            "20/11/2026": 9
+          }
+        }
+      ]
+    },
+    {
+      "vards": "Jānis",
+      "uzvards": "Andersons",
+      "klase": "11.A",
+      "prieksmeti": [
+        {
+          "nosaukums": "Bioloģija",
+          "atzimes": {
+            "15/10/2026": 6,
+            "20/11/2026": 7
+          }
+        },
+        {
+          "nosaukums": "Mūzika",
+          "atzimes": {
+            "15/10/2026": 9,
+            "20/11/2026": 8
+          }
+        },
+        {
+          "nosaukums": "Sociālās zinības",
+          "atzimes": {
+            "15/10/2026": 8,
+            "20/11/2026": 7
+          }
+        }
+      ]
+    }
+  ]
+}

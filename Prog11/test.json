@@ -1,0 +1,80 @@
+{
+  "darbinieki": [
+    {
+      "darbiniekaID": 8546957,
+      "vards": "Jānis",
+      "uzvards": "Andersons",
+      "departaments": "Pārdošanas Departaments",
+      "zurnals": [
+        {
+          "datums": "2026-04-15",
+          "darbs": "Jauna klienta piesaiste",
+          "statuss": "Pabeigts"
+        },
+        {
+          "datums": "2026-05-10",
+          "darbs": "Līguma sagatavošana",
+          "statuss": "Pabeigts"
+        },
+        {
+          "datums": "2026-06-21",
+          "darbs": "Pārdošanas prezentācija",
+          "statuss": "Pabeigts"
+        },
+        {
+          "datums": "2026-07-08",
+          "darbs": "Klientu datu analīze",
+          "statuss": "Pabeigts"
+        },
+        {
+          "datums": "2026-08-17",
+          "darbs": "Tikšanās ar partneriem",
+          "statuss": "Pabeigts"
+        },
+        {
+          "datums": "2026-09-25",
+          "darbs": "Ceturkšņa pārdošanas atskaite",
+          "statuss": "Procesā"
+        }
+      ]
+    },
+    {
+      "darbiniekaID": 98468574,
+      "vards": "Anna",
+      "uzvards": "Bērziņa",
+      "departaments": "Marketinga departaments",
+      "zurnals": [
+        {
+          "datums": "2026-04-03",
+          "darbs": "Sociālo tīklu kampaņa",
+          "statuss": "Pabeigts"
+        },
+        {
+          "datums": "2026-05-19",
+          "darbs": "Tirgus izpēte",
+          "statuss": "Pabeigts"
+        },
+        {
+          "datums": "2026-06-12",
+          "darbs": "Reklāmas materiālu izstrāde",
+          "statuss": "Pabeigts"
+        },
+        {
+          "datums": "2026-07-24",
+          "darbs": "Zīmola atpazīstamības analīze",
+          "statuss": "Pabeigts"
+        },
+        {
+          "datums": "2026-08-11",
+          "darbs": "Mārketinga budžeta plānošana",
+          "statuss": "Pabeigts"
+        },
+        {
+          "datums": "2026-09-30",
+          "darbs": "Rudens kampaņas sagatavošana",
+          "statuss": "Procesā"
+        }
+      ]
+    }
+  ]
+}
